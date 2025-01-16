@@ -3,5 +3,5 @@
 - Estado del proyecto: Actualizandose 
 - Esta dividido en parte del primer curso de los 5 desafios que se realizaron
 
-´´´ npm install react´´´´
+``` npm install react```
 
